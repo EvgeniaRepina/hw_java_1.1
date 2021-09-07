@@ -21,9 +21,9 @@
 
 Ожидаемый результат:  finalBalance = currentBalance + transfer = 2_500_000_000 (два миллиарда пятьсот миллионов рублей)
 
-Источник: домашнее задание к занятию «1. Введение в Java», задача №1 - Money Transfer
+Источник данных: домашнее задание к занятию «1. Введение в Java», задача №1 - Money Transfer
 
-ссылка: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+ссылка на источник: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
 
 Тестирование производилось в следующем окружении:
 * Майкрософт Windows 10 Pro (64 бит)
