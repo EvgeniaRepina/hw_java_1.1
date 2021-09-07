@@ -23,7 +23,7 @@
 
 Источник данных: домашнее задание к занятию «1. Введение в Java», задача №1 - Money Transfer
 
-ссылка на источник: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
+Ссылка на источник: https://github.com/netology-code/javaqa-homeworks/blob/master/intro/MERGED.md
 
 Тестирование производилось в следующем окружении:
 * Майкрософт Windows 10 Pro (64 бит)
